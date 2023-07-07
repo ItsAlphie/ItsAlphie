@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @ItsAlphie
-- 👀 I’m interested in things
-- 🌱 I’m currently learning things
-- 💞️ I’m looking to collaborate on things
-- 📫 How to reach me things
+# Hi there, I'm Jonathan Valgaeren! 👋
+#### Studying Industrial Engineering in Electronics & ICT at GroepT, KULeuven
 
-<!---
-ItsAlphie/ItsAlphie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm passionate about tinkering with electronics, virtual reality and gaming in general.
+
+## 🔭 Current Projects
+- empty for now :)
+
+## 🌱 I'm currently learning
+- Industrial Engineering Electronics & ICT
+
+## 📫 Get in touch
+- Email: 
+
+## 💡 Looking for collaboration
+I'm always open to collaborating on interesting projects or discussing new ideas. If you have a project in mind or want to explore a mutual interest, feel free to reach out. 
+
+Thanks for visiting my profile, and have a great day! 🌟
